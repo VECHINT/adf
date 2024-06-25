@@ -8,6 +8,18 @@
 		"ls_blb_stg_connectionString": {
 			"value": ""
 		},
+		"ls_stg_tb_adf_practice_password": {
+			"value": ""
+		},
+		"ls_stg_tb_adf_practice_properties_typeProperties_server": {
+			"value": "tb-dbserver.database.windows.net"
+		},
+		"ls_stg_tb_adf_practice_properties_typeProperties_database": {
+			"value": "stg_tb_adf_practice"
+		},
+		"ls_stg_tb_adf_practice_properties_typeProperties_userName": {
+			"value": "tbuser"
+		},
 		"containerUri": {
 			"value": ""
 		},
