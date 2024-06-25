@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "df-stg-tbpractice"
+		},
+		"ls_blb_stg_connectionString": {
+			"value": ""
 		}
 	}
 }
