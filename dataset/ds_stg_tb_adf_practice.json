@@ -1,0 +1,16 @@
+{
+	"name": "ds_stg_tb_adf_practice",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_stg_tb_adf_practice",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "EMP"
+		}
+	}
+}
